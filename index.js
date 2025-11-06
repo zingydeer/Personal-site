@@ -1,5 +1,4 @@
-// Challenge 2:
-// Replace the arguments below according to your preference.
+// Customize your website theme below
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("military")
@@ -16,7 +15,7 @@ favouriteEdgeStyle("round")
 
 
 ////////////////////////////////////
-// IGONE THE CODE BELOW THIS LINE //
+// IGNORE THE CODE BELOW THIS LINE //
 ////////////////////////////////////
 
 function setProp(prop, value) {
